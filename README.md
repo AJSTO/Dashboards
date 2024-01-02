@@ -4,7 +4,7 @@ Welcome to my Looker Dashboards repository! This repository contains PDF exports
 
 ## Dashboards
 
-1. ![Dashboard 1 Thumbnail](dashboard1_thumbnail.jpg) [Dashboard 1](dashboard1.pdf) - Brief description of the content and insights.
+1. ![Dashboard 1 Thumbnail](Small renewable energy installations in Poland.pdf) [Dashboard 1](Small_renewable_energy_installations_in_Poland.pdf) - Brief description of the content and insights.
 2. ![Dashboard 2 Thumbnail](dashboard2_thumbnail.jpg) [Dashboard 2](dashboard2.pdf) - Another dashboard showcasing specific data visualizations.
 
 
