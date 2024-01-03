@@ -38,16 +38,20 @@ Explore the dynamic landscape of building permits issued in Poland from 2016 to 
 * **Year Range Filter**: Customize the dashboard by selecting the years of interest.
 * **Location Filter**: Filter permits based on the construction location, facilitating a focused examination.
 * **Local Government Filter**: Explore permits issued by selecting a specific local government body.
+
 **2. Stacked Charts:**
 * **Intent Type Distribution**: Stacked chart showcasing the distribution of permits based on the type of building intent.
 * **Building Category Distribution**: Stacked chart illustrating the distribution of permits based on the category of the building object.
+
 **3. Bubble Map Charts:**
 * **Intent Type Distribution**: Bubble map chart offering a visual breakdown of permits based on the type of building intent.
 * **Building Category Distribution**: Bubble map chart displaying the distribution of permits based on the category of the building object.
+  
 **4. Tables:**
 * **Top Issuing Local Governments**: Table presenting local governments with the highest number of issued permits.
 * **Most Handled Cases by Local Governments**: Table highlighting local governments with the highest number of processed cases.
 * **Cities with Most Construction**: Table showcasing cities with the highest number of ongoing construction projects.
+  
 **5. Legend:**
 * **Intent Type and Category**: A legend at the bottom provides information about building intent types and categories, aiding in easy navigation through the dashboard.
 
