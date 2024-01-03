@@ -23,6 +23,38 @@ Note: Small renewable energy installations (MIOZE) refer to facilities generatin
 
 Data captured from page: [Rejestr wytwórców energii w małej instalacji - dane.gov.pl](https://dane.gov.pl/pl/dataset/1451,rejestr-wytworcow-energii-w-maej-instalacji).
 
+## [Building permissions given from 2016 to present](https://lookerstudio.google.com/reporting/21af6577-d030-41ae-9090-8bd5e62ba0bf)
+
+![Building permissions given from 2016 to present](Building_permissions_given_from_2016.gif)
+
+Explore the dynamic landscape of building permits issued in Poland from 2016 to the present with this interactive dashboard. The data is sourced from the main office of building supervision, providing comprehensive insights into various aspects of construction projects. The dashboard encompasses interactive maps, stacked charts, bubble maps, and tables, offering a detailed analysis of construction permit trends.
+
+### Dashboard Features:
+
+**1. Interactive Maps:**
+* **Province Filter**: Choose a specific province to visualize issued construction permits, enabling regional analysis.
+* **Category Filter**: Filter permits by the category of the building object.
+* **Intent Type Filter**: Select the type of building intent for a more refined exploration.
+* **Year Range Filter**: Customize the dashboard by selecting the years of interest.
+* **Location Filter**: Filter permits based on the construction location, facilitating a focused examination.
+* **Local Government Filter**: Explore permits issued by selecting a specific local government body.
+**2. Stacked Charts:**
+* **Intent Type Distribution**: Stacked chart showcasing the distribution of permits based on the type of building intent.
+* **Building Category Distribution**: Stacked chart illustrating the distribution of permits based on the category of the building object.
+**3. Bubble Map Charts:**
+* **Intent Type Distribution**: Bubble map chart offering a visual breakdown of permits based on the type of building intent.
+* **Building Category Distribution**: Bubble map chart displaying the distribution of permits based on the category of the building object.
+**4. Tables:**
+* **Top Issuing Local Governments**: Table presenting local governments with the highest number of issued permits.
+* **Most Handled Cases by Local Governments**: Table highlighting local governments with the highest number of processed cases.
+* **Cities with Most Construction**: Table showcasing cities with the highest number of ongoing construction projects.
+**5. Legend:**
+* **Intent Type and Category**: A legend at the bottom provides information about building intent types and categories, aiding in easy navigation through the dashboard.
+
+Data Source: [GUNB - building permissions registry](https://wyszukiwarka.gunb.gov.pl/o-wyszukiwarce/)
+
+The data is sourced from the main office of building supervision, providing accurate and up-to-date information on construction permits issued in Poland. 
+
 ## [Air quality measurements in Poland](https://lookerstudio.google.com/reporting/5b78bf5e-6211-438e-989f-c1e4ac8644b8)
 
 ![GIOŚ Dashboard](Air_quality_measurements.gif)
