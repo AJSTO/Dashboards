@@ -57,7 +57,33 @@ Explore the dynamic landscape of building permits issued in Poland from 2016 to 
 
 Data Source: [GUNB - building permissions registry](https://wyszukiwarka.gunb.gov.pl/o-wyszukiwarce/)
 
-The data is sourced from the main office of building supervision, providing accurate and up-to-date information on construction permits issued in Poland. 
+The data is sourced from the main office of building supervision, providing accurate and up-to-date information on construction permits issued in Poland.
+
+COVID_19_infections_dashboard.gif
+
+## [COVID-19 Infections Dashboard (January 2021 - October 2022)](https://lookerstudio.google.com/reporting/97a6f6e4-a54f-4825-800f-3f232afb019b)
+
+![COVID_19_infections_dashboard](COVID_19_infections_dashboard.gif)
+
+
+## Description:
+This comprehensive dashboard provides a detailed analysis of COVID-19 infections in Poland from January 2021 to October 2022. The dashboard is designed to offer insights into the regional development of the pandemic, with a focus on individual voivodeships. Users can interact with the data using a dynamic map that serves as a filter for selecting specific voivodeships.
+
+## Key Features:
+
+1. **Regional Pandemic Trends**:
+  * Explore the pandemic's trajectory in different voivodeships through two interactive line charts.
+  * Analyze the variation in infection rates and their trends over time.
+2. **Age Group Analysis**:
+  * Visualize the impact of the pandemic on various age groups with an expandable line chart. Users can dynamically adjust the number of age groups displayed by clicking a designated button.
+3. **Vaccination Insights**:
+  * Understand the correlation between COVID-19 cases and vaccination status through a dedicated line chart.
+  * Optionally, activate an extension feature to view infection trends based on the number of vaccine doses administered. This feature provides valuable insights into how infections evolved depending on the vaccination status and the specific dose received.
+4. **Date Range Selector**:
+  * Use the intuitive date range selector to focus on specific periods within the overall timeline. This control allows users to zoom in on particular months or weeks for a more granular analysis.
+
+This interactive and user-friendly dashboard is a powerful tool for policymakers, healthcare professionals, and the public to comprehend the nuanced dynamics of the COVID-19 pandemic across different regions, age groups, and vaccination statuses in Poland.
+
 
 ## [Air quality measurements in Poland](https://lookerstudio.google.com/reporting/5b78bf5e-6211-438e-989f-c1e4ac8644b8)
 
