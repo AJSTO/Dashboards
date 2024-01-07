@@ -84,6 +84,32 @@ This comprehensive dashboard provides a detailed analysis of COVID-19 infections
 
 This interactive and user-friendly dashboard is a powerful tool for policymakers, healthcare professionals, and the public to comprehend the nuanced dynamics of the COVID-19 pandemic across different regions, age groups, and vaccination statuses in Poland.
 
+### Data Source:
+
+[Statystyki zakażeń i zgonów z powodu COVID-19 z uwzględnieniem zaszczepienia przeciw COVID-19](https://dane.gov.pl/pl/dataset/2582,statystyki-zakazen-i-zgonow-z-powodu-covid-19-z-uw).
+
+
+## [Aviation Traffic Analysis Center Dashboard](https://lookerstudio.google.com/reporting/1b26879f-90d8-4323-afeb-8dce2cb83e28)
+
+![Aviation Traffic Analysis Center Dashboard](aviation_traffic_analysis.gif)
+
+
+## Description:
+The Aviation Traffic Analysis Center is an advanced tool that enables in-depth analysis of key parameters related to aviation traffic. The dashboard provides users with the ability to monitor the average number of serviced passengers per airport, average flight delays, average seat occupancy in aircraft, and the average number of flights. Additionally, interactive features are available to facilitate a personalized analysis.
+
+## Features:
+
+1. **Airport Parameters**:
+  * Select your airport of interest using an interactive map.
+  * Analyze the average number of serviced passengers, average flight delays, average seat occupancy in aircraft, and the average number of flights for the chosen airport.
+2. **Date Range**:
+  * Tailor your analysis to a specific period using an intuitive date range selector.
+  * Focus on particular months for a more detailed analysis.
+
+### Data Source:
+
+Data is from free demo database for PostgreSQL. The subject field of this database is airline flights across various airports.  [Demonstration Database from PosgreSQL](https://postgrespro.com/community/demodb).
+
 
 ## [Air quality measurements in Poland](https://lookerstudio.google.com/reporting/5b78bf5e-6211-438e-989f-c1e4ac8644b8)
 
