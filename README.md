@@ -4,6 +4,23 @@ Welcome to my Dashboards repository! This repository contains various dashboards
 
 # Dashboards
 
+## [Car accidents in USA from 2016 to 2023](https://lookerstudio.google.com/reporting/f94c8c40-0bc8-455b-a626-ece2d334b964)
+
+![USA Car Accidents](car_accidents_dashboard.gif)
+
+### Description:
+Explore the comprehensive data on car accidents in the USA using our interactive dashboard. This tool provides detailed insights into various aspects of car accidents across the country, helping users understand patterns and trends.
+
+### Key Features:
+* **Interactive Maps**: Visualize the distribution of car accidents across the United States. Users can filter the map by different criteria to explore accident data geographically.
+* **Accident Distribution by Day**: A line chart displays the frequency of accidents on different days, helping identify patterns over time.
+* **Accidents by Weekday**: A bar chart shows the number of accidents occurring on each day of the week or hour of day, offering insights into which days have higher incidences.
+* **Accidents by Location**: Another bar chart categorizes accidents based on location type.
+* **Accidents by Humidity|Temperature|Wind speed|Periciptation**: This bar chart correlates accident occurrences with different parameters, suggesting a possible link between weather conditions and accident rates.
+
+Data captured from page: [US Accidents (2016 - 2023) | A Countrywide Traffic Accident Dataset (2016 - 2023)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents).
+
+
 ## [Development of small renewable energy installations in Poland (MIOZE) from 2015 to present](https://lookerstudio.google.com/reporting/87431959-0863-438a-83f5-2c729cb24c3a)
 
 ![MIOZE Dashboard](Small_renewable_instalations_in_Poland.gif)
